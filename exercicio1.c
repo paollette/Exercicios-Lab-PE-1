@@ -1,3 +1,6 @@
+
+// EXERCÍCIO CONCLUIDO E FUNCIONANDO
+
 #include <stdio.h>
 
 int main(void){
@@ -20,8 +23,11 @@ int main(void){
         }
 
         printf("Essa sequência deixou de ser estritamente crescente %d vezes\n", contador);
-
+        printf("\nDigite o valor de n:\n");
+        
     }
+
+    printf("\nPrograma Encerrado");
    
     return 0;
 
