@@ -3,6 +3,9 @@
 #include <stdio.h>
 
 int main(void){
+
+    printf("Exercício 3\n");
+
     int primeiro, segundo, calculo, n;
 
     while(1){

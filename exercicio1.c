@@ -27,8 +27,7 @@ int main(void){
         
     }
 
-    printf("\nPrograma Encerrado");
-   
+    printf("\nPrograma Encerrado\n");
     return 0;
 
 }
